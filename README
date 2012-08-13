@@ -1,0 +1,5 @@
+This is a repository containing the equivalent of many standard UNIX tools written in Perl.
+
+When possible, attempts are made to clarify portions of code, and shortcuts are avoided.
+
+This will grow as I get more accustomed to working with Perl.
