@@ -1,4 +1,4 @@
-SRCS = cat.pl checksum.pl decrypt.pl encrypt.pl false.pl true.pl rm.pl yes.pl
+SRCS = cat.pl checksum.pl decrypt.pl encrypt.pl false.pl true.pl rm.pl yes.pl pwd.pl
 LIBS = libtools.pl
 OBJS = $(SRCS:.pl=)
 
