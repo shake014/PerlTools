@@ -4,7 +4,7 @@ OBJS = $(SRCS:.pl=)
 
 all: $(OBJS)
 
-%: %.go $(LIBS)
+%: %.pl $(LIBS)
 @echo " PERL " $<
 @perl build $< $(LIBS)
 
